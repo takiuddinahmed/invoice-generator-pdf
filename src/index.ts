@@ -1,3 +1,1 @@
-export function invoicePdf() {
-  return "invoice pdf"
-}
+export * from './invoice-pdf'
